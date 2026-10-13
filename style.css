@@ -1,7 +1,10 @@
+*{
+    align-items: center;
+}
 body{
     background-color: #404040;
 }
-h2{
+h1{
     font-size: 18px;
     color: white;
 }
